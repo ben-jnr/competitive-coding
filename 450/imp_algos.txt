@@ -1,0 +1,5 @@
+IMPORTANT ALGORITHMS:
+
+1. Kadane's algorithm:
+	It helps to find the largest contiguous sub array sum
+	File - 8.cpp
