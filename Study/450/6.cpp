@@ -33,6 +33,7 @@ int main() {
 	while(p1!=s1.end() && p2!=s2.end()) {
 		if(*p1 == *p2) {
 			si.insert(*p1);
+			su.insert(*p1);
 			p1++;
 			p2++;
 		}
