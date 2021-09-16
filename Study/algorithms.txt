@@ -1,0 +1,2 @@
+Kadane's Algorithm
+Boyer-Moore Majority Voting Algorithm

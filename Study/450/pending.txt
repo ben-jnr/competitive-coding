@@ -1,0 +1,2 @@
+Array/9 - Minimise the maximum difference between heights
+
