@@ -1,2 +1,6 @@
 Kadane's Algorithm
 Boyer-Moore Majority Voting Algorithm
+
+
+DP:
+ 0/1 Knapsack
